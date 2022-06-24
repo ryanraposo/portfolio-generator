@@ -16,3 +16,7 @@ Answer a series of questions to generate a portfolio (HTML/CSS)
 
     $ cd portfolio-generator
     $ node app
+
+## Example
+
+![](./img/example.png)
